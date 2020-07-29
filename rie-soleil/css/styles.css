@@ -259,7 +259,7 @@ p {
 }
 
 .project-text p {
-    color: (var(--main-white));
+    color: var(--main-white);
 }
 
 .project-btn {
